@@ -12,6 +12,9 @@ T T T T T T
     T
 
 """
+
+#Making second initial as a block letter
+
 second_initial = """
 
    S S S
